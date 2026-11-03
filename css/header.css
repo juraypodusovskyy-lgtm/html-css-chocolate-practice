@@ -1,0 +1,25 @@
+.header {
+}
+.header__logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11111;
+  letter-spacing: -0.03em;
+}
+.header__nav {
+}
+.header__nav-list {
+}
+.header__nav-item {
+  font-weight: 500;
+}
+.header__nav-item:hover,
+.header__nav-item:focus {
+  color: var(--action-primary);
+}
+.header__social-list {
+}
+.header__social-item {
+}
+.header__social-link {
+}

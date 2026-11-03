@@ -1,0 +1,29 @@
+.products {
+}
+.products__title {
+}
+.products__list {
+}
+.products__item {
+  background: var(--surface-main);
+}
+.products__img {
+}
+.products__subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33333;
+  text-align: center;
+  text-transform: uppercase;
+}
+.products__desc {
+  font-size: 12px;
+  line-height: 1.16667;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: var(--text-muted);
+}
+.products__price {
+  background: var(--surface-secondary);
+  font-weight: 600;
+}

@@ -1,0 +1,44 @@
+body {
+  font-family: var(--font-family);
+  color: var(--text-base);
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+  background: var(--surface-secondary);
+}
+
+ol,
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+address {
+  font-style: normal;
+}
+
+.btn {
+  font-weight: 600;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16667;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.accent {
+  color: var(--action-primary);
+}
