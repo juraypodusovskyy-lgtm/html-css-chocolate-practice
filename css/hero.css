@@ -1,0 +1,32 @@
+.hero {
+  background: var(--element-disabled);
+}
+.hero__title {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21429;
+  letter-spacing: -0.03em;
+  color: var(--surface-main);
+}
+.hero__btn-filled {
+  color: var(--surface-main);
+  background: var(--action-primary);
+}
+.hero__btn-filled:hover,
+.hero__btn-filled:focus {
+  color: var(--action-primary);
+  background: var(--action-hover);
+}
+.hero__btn-outlined {
+  color: var(--surface-main);
+  background: var(--element-disabled);
+}
+.hero__btn-outlined:hover,
+.hero__btn-outlined:focus {
+  color: var(--action-primary);
+  background: var(--surface-main);
+}
+.hero__link {
+  font-weight: 500;
+  color: var(--surface-main);
+}
